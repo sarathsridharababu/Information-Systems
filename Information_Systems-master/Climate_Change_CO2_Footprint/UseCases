@@ -1,0 +1,71 @@
+User Story 1:
+Saik wants to buy a house and is concerned about the source of electricity used. He
+wants to calculate the co2 footprint of each type of electricity generated among the providers
+and choose the least CO2 emittance type of electricity for his house.
+
+User Story 2:
+The regulatory board has implemented a new sensor that allows them to track CO2
+emissions of all cars. Along with the cars that have already completed their commute and the
+ones ongoing, they want to implement a dashboard that displays the top10 CO2 emitters of the
+day
+
+User Story 3:
+Shaun wants to travel from Stuttgart to Karlsruhe what is the total CO2 emitted during
+the complete trip
+
+User Story 4:
+A group of 12 students plan a trip from Frankfurt to black forest and hire 3 cars. The
+owner wants to know the CO2 emissions of each car separately in order to calculate the CO2 tax.
+
+User Story 5:
+Peter travels from his house to college, college to work, work to party and from party to
+house. Which of the following routes have emitted the most CO2 and which route emitted the
+least CO2?
+
+User Story 6:
+Jeffery Zuck, a Business Analyst of an e-CAR start-up company wants to know the CO2
+concentration levels in cities, such that he can promote the product in one of the most air
+polluted cities during peak time to maximize his company's sales.
+
+User Story 7:
+Simon, a car enthusiast driven by his interest about cars, wants to check out the list of
+car models which emit minimal co2 based on varied fuel consumption
+
+User Story 8:
+Jack, an owner of Bio Run, a biodiesel company. In order to increase his profit, he wants
+to collaborate with the car brand emitting highest CO2 emissions based on varied types of fuel
+consumption.
+
+User Story 9:
+Index monitoring system wants to analyze the total amount of co2 emission city wise
+having dense population, list the protocols followed by the local governing systems of the cities.
+
+User Story 10:
+Regulatory board decides to establish co2 check points, set a emission quality flag in top
+cities based on CO2, CH4 emissions increased or decreased from last year and list reason for
+change in co2 emissions.
+
+User Story 11:
+Ajay, a person working in city A wants to travel to city B. Depending on the traffic he
+wants to calculate the available routes along with their emissions.
+
+User Story 12:
+Swathi, wants to travel from home to work. In order to reduce CO2 emissions during her
+transportation, she wants to calculate her footprint if she travels by her car or public transport
+via train.
+
+User Story 13:
+A journalist is writing a report on Urban and Rural Lifestyles and requires facts on CO2
+emissions individually based on population.
+
+User Story 14:
+Mr. Sharma’s family living in Heidelberg owns 3 cars. Mr. Sharma Drives from home to
+work at Stuttgart, Mrs. Sharma drives from home to parlour in Mannheim and Ram Sharma
+drives from home to college in Heidelberg. Mr. Sharma wants to know the CO2 emissions w.r.t
+vehicles as a family
+
+User Story 15:
+Mr Bharadwaj, a staunch believer of "If you want to change the world, start with
+yourself first" wants to keep a track of the daily commutes of his family to check which day of
+the week they contributed more for CO2 emission.
+
